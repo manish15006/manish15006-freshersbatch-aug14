@@ -1,1 +1,1 @@
-iron man is most powerfull character in mcu.
+iron man is most powerfull character in mcu. He is richer.
