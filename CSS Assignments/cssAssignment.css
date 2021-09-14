@@ -1,0 +1,201 @@
+.border-container{
+    border:2px solid green;
+    
+}
+.box1{
+    border: 2px solid green;
+    text-align: center;
+ 
+    padding-top: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+    line-height: 15px;
+    background-color: green;
+    color: white;
+    margin-right: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+    
+}
+.box2{
+    border: 2px solid green;
+    text-align: center;
+  
+    padding-top: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+    line-height: 15px;
+    background-color: green;
+    color: white;
+    margin-right: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+}
+.box3{
+    border: 2px solid green;
+    text-align: center;
+    padding-bottom: 0px;
+    padding-top: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    line-height: 15px;
+    background-color: green;
+    color: white;
+    font-family:Verdana, Tahoma, sans-serif ;
+}
+.box4{
+    border: 2px solid green;
+    text-align: left;
+   
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 54px;
+    line-height: 15px;
+    
+    margin-right: 3px;
+    margin-top: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+    
+}
+.box5{
+    border: 2px solid green;
+    text-align: left;
+    
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 45px;
+    line-height: 15px;
+    
+    margin-right: 3px;
+    margin-top: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+}
+.box6{
+    border: 2px solid green;
+    text-align: left;
+   
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 46px;
+    line-height: 15px;
+    
+    margin-top: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+}
+.box7{
+    border: 2px solid green;
+    text-align: left;
+   
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 64px;
+    line-height: 15px;
+    
+    margin-right: 3px;
+    margin-top: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+    
+}
+.box8{
+    border: 2px solid green;
+    text-align: left;
+  
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 45px;
+    line-height: 15px;
+    
+    margin-right: 3px;
+    margin-top: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+}
+.box9{
+    border: 2px solid green;
+    text-align: left;
+ 
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 46px;
+    line-height: 15px;
+    
+    margin-top: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+}
+.box10{
+    border: 2px solid green;
+    text-align: left;
+  
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 69px;
+    line-height: 15px;
+    
+    margin-right: 3px;
+    margin-top: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+    
+}
+.box11{
+    border: 2px solid green;
+    text-align: left;
+    
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 22px;
+    line-height: 15px;
+    
+    margin-right: 3px;
+    margin-top: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+}
+.box12{
+    border: 2px solid green;
+    text-align: left;
+    padding-bottom: 0px;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 46px;
+    line-height: 15px;
+    
+    margin-top: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+}
+.box13{
+    border: 2px solid green;
+    text-align: left;
+   
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 17px;
+    line-height: 15px;
+    
+    margin-right: 3px;
+    margin-top: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+    
+}
+.box14{
+    border: 2px solid green;
+    text-align: left;
+    padding-bottom: 0px;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 43px;
+    line-height: 15px;
+    
+    margin-right: 3px;
+    margin-top: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+}
+.box15{
+    border: 2px solid green;
+    text-align: left;
+ 
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 46px;
+    line-height: 15px;
+    
+    
+    margin-top: 3px;
+    font-family:Verdana, Tahoma, sans-serif ;
+}
+
