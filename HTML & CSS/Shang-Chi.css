@@ -1,0 +1,145 @@
+.mainimg {
+  background-image: url("https://nerdreactor.com/wp-content/uploads/2021/08/Shang-Chi-characters-posters-all.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.bg-container {
+  background-color: black;
+}
+
+.heading1 {
+  color: red;
+  text-align: center;
+  text-shadow: 2px 2px #777;
+  font-weight: bold;
+  font-size: 64px;
+  border: 2px solid red;
+  margin-bottom: 0px;
+  padding: 5px;
+}
+
+.heading2 {
+  color: red;
+}
+
+.para {
+  color: white;
+}
+
+.card1 {
+  padding: 2px;
+  text-align: center;
+  box-shadow: 5px 10px white;
+}
+
+.card2 {
+  height: 45vh;
+  box-shadow: 5px 10px white;
+}
+
+.border1 {
+  border: 2px solid white;
+  box-shadow: 5px 10px red;
+}
+
+.img1 {
+  height: 30vh;
+  box-shadow: 5px 10px red;
+}
+
+.img2 {
+  height: 62vh;
+  box-shadow: 5px 10px red;
+}
+
+.img3 {
+  height: 40vh;
+  box-shadow: 5px 10px red;
+}
+
+.img4 {
+  height: 40vh;
+  box-shadow: 5px 10px red;
+}
+
+.img5 {
+  height: 300px;
+  box-shadow: 5px 10px red;
+}
+
+.img6 {
+  height: 310px;
+  width: 480px;
+  box-shadow: 5px 10px red;
+}
+
+.bg-section {
+  background-color: #19232d;
+  height: 100vh;
+  background-size: cover;
+}
+
+.bg-section1 {
+  background-color: #19232d;
+  height: 30vh;
+  background-size: cover;
+}
+
+.image {
+  height: 12vh;
+}
+
+.icon-section {
+  background-color: #202b36;
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  margin: 8px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  padding-right: 16px;
+  padding-left: 16px;
+}
+
+.icon-sub {
+  color: #5a7184;
+  font-size: 18px;
+}
+
+.icon {
+  color: #5a7184;
+  font-size: 22px;
+}
+
+.main-para {
+  color: #5a7184;
+  font-size: 18px;
+}
+
+.para1 {
+  color: #5a7184;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+h1 {
+  color: #5a7184;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.footer-section {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.line1 {
+  background-color: #959ead;
+}
+
+.bottom-para {
+  color: #959ead;
+  font-size: 18px;
+}
+
